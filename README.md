@@ -40,8 +40,6 @@ The dataset includes the following columns:
 - **Pandas**: Data manipulation and analysis.
 - **Seaborn/Matplotlib**: Data visualization.
 
-  ![LeetCode Data Analysis](https://github.com/kumawatmanish05/LeetCode_Data_Analysis/blob/main/leetcode.jpg)
-
 ## 📥 Usage
 1. Clone the repository:
    ```bash
