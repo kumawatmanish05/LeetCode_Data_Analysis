@@ -3,6 +3,8 @@
 ## 📌 Introduction
 This project focuses on exploratory data analysis (EDA) of a dataset comprising questions from LeetCode, one of the most popular coding platforms for programmers. Using Python, Pandas, and visualization libraries such as Seaborn, we aim to uncover insights into question patterns, difficulty levels, acceptance rates, and more, to assist developers in better understanding and navigating the platform.
 
+![LeetCode Data Analysis](https://github.com/kumawatmanish05/LeetCode_Data_Analysis/blob/main/leetcode.jpg)
+
 ## 📊 Dataset Overview
 The dataset includes the following columns:
 
@@ -37,6 +39,8 @@ The dataset includes the following columns:
 - **Python**: Core programming language.
 - **Pandas**: Data manipulation and analysis.
 - **Seaborn/Matplotlib**: Data visualization.
+
+  ![LeetCode Data Analysis](https://github.com/kumawatmanish05/LeetCode_Data_Analysis/blob/main/leetcode.jpg)
 
 ## 📥 Usage
 1. Clone the repository:
